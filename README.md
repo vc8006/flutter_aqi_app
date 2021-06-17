@@ -1,4 +1,4 @@
-Built a flutter app for Android and ios Which predicts AQI and other pollutants such as NO2,SO2 etc of Delhi pto next 7 days.
+Built a flutter app for Android and ios Which predicts AQI and other pollutants such as NO2,SO2 etc of Delhi upto next 7 days.
 
 ![screenshot](fapps.png)  ![screenshot](mainf.png)
 
